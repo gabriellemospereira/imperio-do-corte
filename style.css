@@ -35,8 +35,18 @@ body{
 .menu-nav{
     margin-top: 0;
     display: flex;
-justify-content: center; /* Alinha itens à o centro */
+    justify-content: center; /* Alinha itens à o centro */
     gap: 165px;
     padding: 25px;
+    background-color: rgba(128, 128, 128, 0.5);
+
+}
+
+.menu-nav a{
+    text-decoration: none;
+    color: #ffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
 }
 
