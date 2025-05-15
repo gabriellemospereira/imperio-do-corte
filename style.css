@@ -50,6 +50,11 @@ body{
     font-weight: bold;
 }
 
+.menu-nav a:hover{
+    color: goldenrod;
+    transition-duration: 0.3s;
+}
+
 .nossa-empresa{
     margin: 55px;
     justify-content: center;
