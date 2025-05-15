@@ -60,3 +60,14 @@ body{
     background-color: rgba(128, 128, 128, 0.349);
 }
 
+.nossa-empresa h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(234, 245, 170);
+    margin-bottom: 3px;
+}
+
+
+
