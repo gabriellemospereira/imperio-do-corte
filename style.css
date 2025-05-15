@@ -66,8 +66,14 @@ body{
     font-weight: bold;
     font-style: italic;
     color: rgb(234, 245, 170);
-    margin-bottom: 3px;
+    margin-bottom: 1px;
 }
 
-
+.nossa-empresa h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(234, 245, 170);
+}
 
