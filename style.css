@@ -1,0 +1,32 @@
+/* tamanho de telas para desktops*/
+@media (max-width:960px){
+    body{
+        width: 100%;
+    }
+}
+/* tamanho de telas para tablets*/
+@media (max-width:768px){
+   body{
+    width: 90%;
+   }
+}
+
+/* tamanho de telas para celular*/
+@media (max-widrh: 480px){
+    body{
+        width: 100%;
+    }
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(imagens/império\ do\ corte-\ fundo.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
