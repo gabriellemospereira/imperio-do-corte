@@ -30,3 +30,13 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+
+
+.menu-nav{
+    margin-top: 0;
+    display: flex;
+justify-content: center; /* Alinha itens à o centro */
+    gap: 165px;
+    padding: 25px;
+}
+
