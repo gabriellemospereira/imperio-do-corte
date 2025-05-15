@@ -50,3 +50,13 @@ body{
     font-weight: bold;
 }
 
+.nossa-empresa{
+    margin: 55px;
+    justify-content: center;
+    text-align: center;
+    padding: 56px;
+    border-radius: 25px;
+    box-shadow: 6px 1px 17px 1px rgba(0, 0, 0, 0.527);
+    background-color: rgba(128, 128, 128, 0.349);
+}
+
