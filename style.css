@@ -57,8 +57,8 @@ body{
     transition-duration: 0.3s;
 }
 
-.nossa-empresa{
-    margin: 55px;
+#nossa-empresa{
+    margin: 155px;
     margin-bottom: 26px;
     justify-content: center;
     text-align: center;
@@ -68,35 +68,41 @@ body{
     background-color: rgba(128, 128, 128, 0.349);
 }
 
-.nossa-empresa h1{
+#nossa-empresa h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
     font-weight: bold;
     font-style: italic;
-    color: rgb(234, 245, 170);
+    color: rgb(245, 201, 8);
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
     margin-bottom: 1px;
+    
 }
 
-.nossa-empresa h2{
+#nossa-empresa h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     font-weight: bold;
     font-style: italic;
-    color: rgb(234, 245, 170);
+    color: rgb(245, 201, 8);
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
 }
 
-.nossa-empresa p{
+#nossa-empresa p{
     margin-top: 13px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: bold;
     color: #ffff;
+    text-shadow: 1px 1px 3px black;
+    line-height: 1.5;
 }
 
 .botao{
-    margin-bottom: 55px;
+    margin-bottom: 655px;
     align-items: center;
     text-align: center;  
+    
 }
 
 .botao a{
@@ -109,15 +115,18 @@ body{
     background-color: goldenrod;
     border-radius: 10px;
     border: 1px solid black;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.3);
 }
 
 .botao a:hover{
     color: black;
     background-color: orangered;
     transition-duration: 0.3s;
+    box-shadow: 4px 4px 12px rgba(0,0,0,0.6);
 }
 
 footer{
+
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10px;
